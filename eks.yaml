@@ -6,7 +6,7 @@ Parameters:
     Description: The name of the IAM role for the EKS service to assume.
   EKSClusterName:
     Type: String
-    Description: The desired name of your AWS EKS Cluster.
+    Description: The desired name of your AWS EKS Cluster. Boom
     
   VpcBlock:
     Type: String
